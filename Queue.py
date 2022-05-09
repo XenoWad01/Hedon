@@ -20,6 +20,12 @@ class Queue:
         else:
             return None
 
+
+# hahahah
+
+
+
+
     def add(self, song):
         self.queue.append(song)
 
